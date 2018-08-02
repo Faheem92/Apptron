@@ -1,0 +1,9 @@
+
+===== android traing task MODULE ======
+
+1) use intent craete Phone Calls app
+
+
+2) use intent craete Sending SMS app
+
+3) use intent craete Sending Email app

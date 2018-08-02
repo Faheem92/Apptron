@@ -1,0 +1,21 @@
+
+
+ task android studnts 302
+
+
+1)	Relative Layout
+create 10 input text 10 INPUT BUTTON
+
+2)	Linear Layout
+
+LOGIN FROM TWO INPUT FIELD
+
+3)	Table Layout
+
+CREATE REGISTR FROM 
+NAME ,FATHER , ADRESS , CONTACT 
+
+4)	Linear Layout
+
+CREATE TEXT INPUT ALL TYPES 
+
